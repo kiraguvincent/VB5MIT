@@ -1,0 +1,10 @@
+Table,th,td{
+    border: black solid 5px;
+    width: 50%;
+    padding: 30px;
+    height: 50px;
+
+}
+table{
+    padding-right: 30px;
+}

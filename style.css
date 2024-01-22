@@ -1,0 +1,10 @@
+.test{
+    display: flex;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+p{
+    margin-left: 30px;
+}
